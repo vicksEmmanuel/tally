@@ -1,0 +1,216 @@
+import React, { Component } from "react";
+import { View } from "react-native";
+import Svg, { G, Path, Rect } from "react-native-svg";
+
+export const One = props => {
+  return (
+    <Svg width="33" height="30" xmlns="http://www.w3.org/2000/svg">
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="10.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+    </Svg>
+  );
+};
+export const Two = props => {
+  return (
+    <Svg width="33" height="30" xmlns="http://www.w3.org/2000/svg">
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="4.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="10.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+    </Svg>
+  );
+};
+export const Three = props => {
+  return (
+    <Svg width="33" height="30" xmlns="http://www.w3.org/2000/svg">
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="4.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="10.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="18.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+    </Svg>
+  );
+};
+export const Four = props => {
+  return (
+    <Svg width="33" height="30" xmlns="http://www.w3.org/2000/svg">
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="4.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="10.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="18.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="25.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+    </Svg>
+  );
+};
+export const Five = props => {
+  return (
+    <Svg width="33" height="30" xmlns="http://www.w3.org/2000/svg">
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="4.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="10.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="18.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_1"
+          height="20.99999"
+          width="1"
+          y="2.50001"
+          x="25.5"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+      <G>
+        <Rect
+          stroke="#000"
+          id="svg_2"
+          height="1"
+          width="35.999984"
+          y="10.5"
+          x="1.500016"
+          fill-opacity="null"
+          stroke-opacity="null"
+          stroke-width="1.5"
+          fill="#005da4"
+        />
+      </G>
+    </Svg>
+  );
+};

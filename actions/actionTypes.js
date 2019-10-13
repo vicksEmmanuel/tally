@@ -1,0 +1,15 @@
+export const INITIALIZE = 'INITIALIZE';
+export const ALPHABET = 'ALPHABET';
+export const FLAG = 'FLAG';
+export const NUMBER = 'NUMBER';
+export const GRAY = 'GRAYSLATE';
+export const ALPHABETDESC = 'ALPHABETDESC';
+export const LETTER = 'LETTER';
+export const ADDUSER = "ADDUSER";
+export const EDITUSER = "EDITUSER";
+export const EDITCURRENTUSER = "EDITCURRENTUSER";
+export const DELETEUSER = "DELETEUSER";
+export const USERS = "USERS";
+export const CURRENT_USER = "CURRENT_USER";
+export const PATHS = "PATHS";
+export const PATHSDATA ="PATHSDATA";
