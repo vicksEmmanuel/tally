@@ -5,9 +5,11 @@ With tally, children learns anywhere anytime. There are question sections under 
 
 ### App Screens
 
+<div style="display: inline">
 <img src="https://play-lh.googleusercontent.com/R75R629nWY_io2JR1eOtbMgUippkxM86AXR0QIaJ28ZPPPbUlYX2wS1Ls34gbr-wB8mc=w1366-h663-rw" alt="tally" width="200" />
 <img src="https://play-lh.googleusercontent.com/jDSWbWcXJ1W7OdF4zTAHfESoBefUWNu94hx6pKuQXdymOsCWY3ECoKDkEZ1aorRH_E0=w1366-h663-rw" alt="tally" width="200" />
 <img src="https://play-lh.googleusercontent.com/h3VubCeuZGxq1lS1L9AwwPFNCwXUDk85fZM3m5_1XmbHvP5Y4cliLFS_MbUj12rCsg=w720-h310-rw" alt="tally" width="200" />
+</div>
 
 
 ### Tech Stack
